@@ -1,16 +1,18 @@
 # Bros
 
 Hi, I'm Andre Garcia from Sao Paulo - Brazil
-andre.garcia73@gmail.com
-+55 (11) 99128-1479
+
+- andre.garcia73@gmail.com
+- +55 (11) 99128-1479
 
 This is Bros (Browser Operational System)
-http://www.xpnet.com.br
-http://andregarcia73.ddns.net:65009/Bros
+
+- http://www.xpnet.com.br
+- http://andregarcia73.ddns.net:65009/Bros
 
 You can use it as a javascript framework UI (User Interface) for free !
 
-Expands the .ZIP version you want (e.g. Bros_2020_07_01.zip) into a folder in your localhost.
+Expands the .ZIP version you want (e.g. Bros_2020_07_02.zip) into a folder in your localhost.
 
 Access it via browser (e.g. http://localhost/xxx/xxx/xxx/Bros/Bros.html)
 
@@ -27,11 +29,11 @@ Everything you need you will find in.
 - My App
 - Bros Test DI
 
-Starts building your application in
+Starts building (modifying) your first application in
 
 - My App
 
-Source code is available in ...\Bros\_js\ZB_Bros.js
+Source code is available in .../Bros/_js/ZB_Bros.js
 
 Ask me for feedbacks or help.
 
